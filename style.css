@@ -1,0 +1,23 @@
+body {
+  background-color: blanchedalmond;
+}
+.con {
+  text-align: center;
+}
+
+li {
+  text-decoration: none;
+  list-style-type: none;
+  margin: 10px;
+  padding: 10px;
+  background-color: blue;
+  color: brown;
+}
+ul {
+  display: flex;
+}
+
+li :hover {
+  background-color: blueviolet;
+  margin: 20px;
+}
